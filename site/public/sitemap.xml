@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.neilfasching.com/vitae/</loc>
-    <lastmod>2021-01-26T19:13:07+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.neilfasching.com/other/</loc>
     <lastmod>2021-01-26T19:01:11+01:00</lastmod>
   </url>
@@ -185,6 +180,10 @@
   <url>
     <loc>https://www.neilfasching.com/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.neilfasching.com/vitae/</loc>
   </url>
   
   <url>

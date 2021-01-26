@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: "https://www.neilfasching.com/"
 title: Neil Fasching
 theme: hugo-eureka
 paginate: 3

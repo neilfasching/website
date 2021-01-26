@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Author on Neil Fasching</title>
-    <link>/authors/example-author/</link>
+    <link>https://www.neilfasching.com/authors/example-author/</link>
     <description>Recent content in Example Author on Neil Fasching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate><atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate><atom:link href="https://www.neilfasching.com/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math Support</title>
-      <link>/posts/math-support/</link>
+      <link>https://www.neilfasching.com/posts/math-support/</link>
       <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
       
-      <guid>/posts/math-support/</guid>
+      <guid>https://www.neilfasching.com/posts/math-support/</guid>
       <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Featured Image</title>
-      <link>/posts/featured-image/</link>
+      <link>https://www.neilfasching.com/posts/featured-image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/featured-image/</guid>
+      <guid>https://www.neilfasching.com/posts/featured-image/</guid>
       <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>/posts/placeholder-text/</link>
+      <link>https://www.neilfasching.com/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/placeholder-text/</guid>
+      <guid>https://www.neilfasching.com/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     

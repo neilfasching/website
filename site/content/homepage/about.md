@@ -14,17 +14,17 @@ avatar = "images/icon.png"
 [[social]]
   icon = "envelope"
   iconPack = "fas"
-  url = "mailto:example@example.com"
+  url = "mailto:neilfasching@gmail.com"
 
 [[social]]
   icon = "twitter"
   iconPack = "fab"
-  url = "https://example.com/"
+  url = "https://twitter.com/neilfasching/"
 
 [[social]]
   icon = "github"
   iconPack = "fab"
-  url = "https://example.com/"
+  url = "https://github.com/neilfasching"
 
 [widget]
   handler = "about"

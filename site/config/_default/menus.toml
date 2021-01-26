@@ -4,11 +4,6 @@
   weight = 1
 
 [[main]]
-  name = "Posts"
-  url = "/posts/"
+  name = "CV"
+  url = "/cv/"
   weight = 2
-
-[[main]]
-  name = "Docs"
-  url = "/docs/"
-  weight = 3

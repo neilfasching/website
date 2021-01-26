@@ -8,17 +8,27 @@
   </url>
   
   <url>
+    <loc>https://www.neilfasching.com/cv/example-doc/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.neilfasching.com/cv/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.neilfasching.com/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.neilfasching.com/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.neilfasching.com/posts/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neilfasching.com/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
@@ -84,16 +94,6 @@
   
   <url>
     <loc>https://www.neilfasching.com/cv/example-doc/nested-chapter/chapter-2/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neilfasching.com/cv/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neilfasching.com/cv/example-doc/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   

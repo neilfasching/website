@@ -9,6 +9,15 @@
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://www.neilfasching.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Other</title>
+      <link>https://www.neilfasching.com/other/</link>
+      <pubDate>Tue, 26 Jan 2021 19:01:11 +0100</pubDate>
+      
+      <guid>https://www.neilfasching.com/other/</guid>
+      <description>I am hear to say it! haha</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>https://www.neilfasching.com/posts/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>

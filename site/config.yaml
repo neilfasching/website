@@ -21,9 +21,5 @@ markup:
     ordered: no
     startLevel: 2
 taxonomies:
-  author: authors
-  category: categories
-  series: series
-  tag: tags
 build:
   useResourceCacheWhen: always

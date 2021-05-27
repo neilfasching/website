@@ -6,34 +6,6 @@
     <description>Recent content in Example Author on Neil Fasching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate><atom:link href="https://www.neilfasching.com/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Math Support</title>
-      <link>https://www.neilfasching.com/posts/math-support/</link>
-      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
-      
-      <guid>https://www.neilfasching.com/posts/math-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Featured Image</title>
-      <link>https://www.neilfasching.com/posts/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.neilfasching.com/posts/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://www.neilfasching.com/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.neilfasching.com/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
+    <copyright>&amp;copy; 2021</copyright><atom:link href="https://www.neilfasching.com/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

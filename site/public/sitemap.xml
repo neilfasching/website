@@ -63,16 +63,6 @@
   </url>
   
   <url>
-    <loc>https://www.neilfasching.com/authors/</loc>
-    <lastmod>2020-11-20T22:52:56+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neilfasching.com/authors/example-author/</loc>
-    <lastmod>2020-11-20T22:52:56+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.neilfasching.com/posts/math-support/</loc>
     <lastmod>2020-11-20T22:52:56+08:00</lastmod>
   </url>
@@ -113,17 +103,7 @@
   </url>
   
   <url>
-    <loc>https://www.neilfasching.com/series/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.neilfasching.com/categories/themes/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neilfasching.com/series/themes-guide/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -134,11 +114,6 @@
   
   <url>
     <loc>https://www.neilfasching.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neilfasching.com/authors/hugo-authors/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +158,19 @@
   </url>
   
   <url>
+    <loc>https://www.neilfasching.com/authors/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.neilfasching.com/vitae/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.neilfasching.com/authors/example-author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.neilfasching.com/authors/hugo-authors/</loc>
   </url>
   
   <url>

@@ -8,8 +8,8 @@ bio = "Interested in Political Psychology, Political Communication, and Public O
 avatar = "images/neil.png"
 
 [organization]
-  name = "Neil University"
-  url = "https://example.com/"
+  name = "University of Pennsylvania"
+  url = "https://www.asc.upenn.edu/"
 
 [[social]]
   icon = "envelope"

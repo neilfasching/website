@@ -14,7 +14,7 @@ avatar = "images/neil.png"
 [[social]]
   icon = "envelope"
   iconPack = "fas"
-  url = "mailto:neilfasching@gmail.com"
+  url = "mailto:neil.fasching@asc.upenn.edu"
 
 [[social]]
   icon = "twitter"

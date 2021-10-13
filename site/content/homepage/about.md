@@ -5,7 +5,7 @@ draft = false
 
 role = "PhD Student"
 bio = "Interested in Political Psychology, Political Communication, and Public Opinion."
-avatar = "images/Neil1.PNG"
+avatar = "images/neil1.jpg"
 
 [organization]
   name = "University of Pennsylvania"

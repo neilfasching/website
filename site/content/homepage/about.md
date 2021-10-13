@@ -54,7 +54,7 @@ avatar = "images/neil.jpg"
 
 ## About
 
-I am doctoral student at the Annenberg School for Communication, where I am a member of the Democracy and Information Group. My research interests focus on the causes and the consequences of partisanship. This includes researching where partisan identity falls in the hierarchy of social identities and how elite rhetoric can influence affective polarization and lead to greater support for partisan violence. 
+I am doctoral student at the Annenberg School for Communication at the University of Pennsylvania, where I am a member of the Democracy and Information Group. My research interests focus on the causes and the consequences of partisanship. This includes researching where partisan identity falls in the hierarchy of social identities and how elite rhetoric can influence affective polarization and lead to greater support for partisan violence. 
 
 Prior to joining the Annenberg School for Communication, I completed a Research Master’s degree in Political Communication at the University of Amsterdam. While there, I contributed to several peer-reviewed articles related to political psychology and open science research practices. I also earned a Bachelor’s degree in Political Science and Psychology from the University of California, Santa Barbara.
 
